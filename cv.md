@@ -15,3 +15,10 @@ I'm going to become a frontend developer!
 - JavaScript (theory)
 - Git, GitHub (in the process of studying)
 - VS Code (in the process of studying)
+
+## Education
+- **University:** Belarusian National Technical University
+- **Degree:** Engineer-economist
+
+## Languages
+**English** - C1 (Advanced)
