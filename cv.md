@@ -16,6 +16,13 @@ I'm going to become a frontend developer!
 - Git, GitHub (in the process of studying)
 - VS Code (in the process of studying)
 
+## Code example
+```javascript
+function multiply(a, b){
+  return (a * b);
+};
+```
+
 ## Education
 - **University:** Belarusian National Technical University
 - **Degree:** Engineer-economist
